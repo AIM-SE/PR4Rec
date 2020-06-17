@@ -6,7 +6,7 @@ labels: ''
 assignees: ''
 
 ---
-The main goal of reading paper is not just understanding it. Try to understand the key ida, but we need to get new ideas and research directions from the paper.
+The main goal of reading paper is not just understanding it. Try to understand the key concept, but we need to get new ideas and research directions from the paper.
 
 ## Paper information: title, authors, venue, pdf link, github, etc.
 * 
