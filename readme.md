@@ -50,7 +50,9 @@ Kang, Wang-Cheng, and Julian McAuley. 2018. <b>“Self-Attentive Sequential Reco
 
 ## Heterogenous RecSys
 
-### (ing)
+### Implementaions
+
+- Heterogeneous Information Network Embedding: Methods and Implements : https://github.com/zhoushengisnoob/HINE
 
 ### ETC
 
