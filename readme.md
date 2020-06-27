@@ -54,6 +54,11 @@ Kang, Wang-Cheng, and Julian McAuley. 2018. <b>“Self-Attentive Sequential Reco
 
 - Heterogeneous Information Network Embedding: Methods and Implements : https://github.com/zhoushengisnoob/HINE
 
+- PyTorch geometric : https://github.com/rusty1s/pytorch_geometric
+- dgl(PyTorch, MXNet, TensorFlow) : https://github.com/dmlc/dgl
+- stellagraph : https://github.com/stellargraph/stellargraph
+
+
 ### ETC
 
 Zhao, Pengyu, Kecheng Xiao, Yuanxing Zhang, Kaigui Bian, and Wei Yan. 2020. “AMER: Automatic Behavior Modeling and Interaction Exploration in Recommender System.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/2006.05933.
