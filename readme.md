@@ -120,10 +120,7 @@ Zhao, Pengyu, Kecheng Xiao, Yuanxing Zhang, Kaigui Bian, and Wei Yan. 2020. “A
 
 # Wanna more papres?
 
-## Must-read papers on Recommender System
-
-- https://github.com/hongleizhang/RSPapers
-
+## Conferences
 
 ### WWW
 
@@ -153,6 +150,12 @@ Zhao, Pengyu, Kecheng Xiao, Yuanxing Zhang, Kaigui Bian, and Wei Yan. 2020. “A
 - (2017) https://recsys.acm.org/recsys17/accepted-contributions/
 - RecSys Best Papper : https://recsys.acm.org/best-papers/
 
-## links to conference publications in graph-based deep learning
+## Etc.
+
+### Must-read papers on Recommender System
+
+- https://github.com/hongleizhang/RSPapers
+
+### links to conference publications in graph-based deep learning
 
 - https://github.com/naganandy/graph-based-deep-learning-literature
