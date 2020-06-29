@@ -8,19 +8,19 @@
 
 ### Based on Attention Model 
 
-Pan, Zhiqiang, Fei Cai, Yanxiang Ling, and Maarten de Rijke. 2020. “Rethinking Item Importance in Session-Based Recommendation.” In SIGIR. http://arxiv.org/abs/2005.04456.
+* Pan, Zhiqiang, Fei Cai, Yanxiang Ling, and Maarten de Rijke. 2020. “Rethinking Item Importance in Session-Based Recommendation.” In SIGIR. [[Link]](http://arxiv.org/abs/2005.04456)
 
-Chen, T., and R. C. Wong. 2019. “Session-Based Recommendation with Local Invariance.” In 2019 IEEE International Conference on Data Mining (ICDM), 994–99.
+* Chen, T., and R. C. Wong. 2019. “Session-Based Recommendation with Local Invariance.” In 2019 IEEE International Conference on Data Mining (ICDM), 994–99.
 
-Wu, Shu, Mengqi Zhang, Xin Jiang, Xu Ke, and Liang Wang. 2019. “Personalizing Graph Neural Networks with Attention Mechanism for Session-Based Recommendation.” IEEE Transactions on Knowledge and Data Engineering 31 (9). http://arxiv.org/abs/1910.08887.
+* Wu, Shu, Mengqi Zhang, Xin Jiang, Xu Ke, and Liang Wang. 2019. “Personalizing Graph Neural Networks with Attention Mechanism for Session-Based Recommendation.” IEEE Transactions on Knowledge and Data Engineering 31 (9). [[Link]](http://arxiv.org/abs/1910.08887)
 
-Xu, Chengfeng, Pengpeng Zhao, Yanchi Liu, Victor S. Sheng, Jiajie Xu, Fuzhen Zhuang, Junhua Fang, and Xiaofang Zhou. 2019. “Graph Contextualized Self-Attention Network for Session-Based Recommendation.” In Proc. 28th Int. Joint Conf. Artif. Intell.(IJCAI), 3940–46. pdfs.semanticscholar.org.
+* Xu, Chengfeng, Pengpeng Zhao, Yanchi Liu, Victor S. Sheng, Jiajie Xu, Fuzhen Zhuang, Junhua Fang, and Xiaofang Zhou. 2019. “Graph Contextualized Self-Attention Network for Session-Based Recommendation.” In Proc. 28th Int. Joint Conf. Artif. Intell.(IJCAI), 3940–46. pdfs.semanticscholar.org.
 
-Zhang, S., Y. Tay, L. Yao, and A. Sun. 2018. “Next Item Recommendation with Self-Attention.” arXiv.” Information Retrieval.
+* Zhang, S., Y. Tay, L. Yao, and A. Sun. 2018. “Next Item Recommendation with Self-Attention.” arXiv.” Information Retrieval.
 
-Wang, Tian, and Kyunghyun Cho. 2017. “Attention-Based Mixture Density Recurrent Networks for History-Based Recommendation.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/1709.07545.
+* Wang, Tian, and Kyunghyun Cho. 2017. “Attention-Based Mixture Density Recurrent Networks for History-Based Recommendation.” arXiv [cs.LG]. arXiv. [[Link]](http://arxiv.org/abs/1709.07545)
 
-Li, Jing, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Tao Lian, and Jun Ma. 2017. “Neural Attentive Session-Based Recommendation.” In Proceedings of the 2017 ACM on Conference on Information and Knowledge Management, 1419–28. CIKM ’17. New York, NY, USA: Association for Computing Machinery.
+* Li, Jing, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Tao Lian, and Jun Ma. 2017. “Neural Attentive Session-Based Recommendation.” In Proceedings of the 2017 ACM on Conference on Information and Knowledge Management, 1419–28. CIKM ’17. New York, NY, USA: Association for Computing Machinery.
 
 ### Based on Neural Language Model 
 
@@ -34,7 +34,7 @@ Sun, Fei, Jun Liu, Jian Wu, Changhua Pei, Xiao Lin, Wenwu Ou, and Peng Jiang. 20
 
 - Approach : based on BERT
 - Dataset : Beauty, Steam ML-1m, ML-20m
-- github : https://github.com/FeiSun/BERT4Rec 
+- [[CODE]](https://github.com/FeiSun/BERT4Rec) 
 
 Anh, Pham Hoang, Ngo Xuan Bach, and Tu Minh Phuong. 2019. <b>“Session-Based Recommendation with Self-Attention.”</b> In Proceedings of the Tenth International Symposium on Information and Communication Technology, 1–8. SoICT 2019. New York, NY, USA: Association for Computing Machinery.
 
@@ -46,24 +46,29 @@ Kang, Wang-Cheng, and Julian McAuley. 2018. <b>“Self-Attentive Sequential Reco
 
 - Approach : based on Transformer
 - Dataset : Amazon Beauty, Amazon Games, Steam, MovieLens-1M
-- github : https://github.com/kang205/SASRec
+- [[CODE]](https://github.com/kang205/SASRec)
 
 ## Heterogenous RecSys
 
+* MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding. (WWW`20)  [[Link]](http://arxiv.org/abs/2002.01680)
+* Heterogeneous Graph Neural Network. (KDD`19)  [[Link]](https://www.kdd.org/kdd2019/accepted-papers/view/hetgnn-heterogeneous-graph-neural-network)
+* Tripartite Heterogeneous Graph Propagation for Large-Scale Social Recommendation. (RecSys`19)  [[Link]](http://arxiv.org/abs/1908.02569)
+* Learning Disentangled Representations for Recommendation. (NeurIPS`19) [[Link]](http://papers.nips.cc/paper/8808-learning-disentangled-representations-for-recommendation)
+* Evolutionarily Learning Multi-Aspect Interactions and Influences from Network Structure and Node Content.” (AAAI`19) [[Link]](https://www.aaai.org/ojs/index.php/AAAI/article/view/3835)
+* Heterogeneous Information Network Embedding for Recommendation.” (TKDE`19) [[LINK]](https://arxiv.org/pdf/1711.10730.pdf)
+
 ### Implementaions
 
-- Heterogeneous Information Network Embedding: Methods and Implements : https://github.com/zhoushengisnoob/HINE
+- Heterogeneous Information Network Embedding: Methods and Implements : [[LINK]](https://github.com/zhoushengisnoob/HINE)
 
-- PyTorch geometric : https://github.com/rusty1s/pytorch_geometric
-- dgl(PyTorch, MXNet, TensorFlow) : https://github.com/dmlc/dgl
-- stellagraph : https://github.com/stellargraph/stellargraph
+- PyTorch geometric : [[LINK]](https://github.com/rusty1s/pytorch_geometric)
+- dgl(PyTorch, MXNet, TensorFlow) : [[LINK]](https://github.com/dmlc/dgl)
+- stellagraph : [[LINK]](https://github.com/stellargraph/stellargraph)
 
 
 ### ETC
 
-Zhao, Pengyu, Kecheng Xiao, Yuanxing Zhang, Kaigui Bian, and Wei Yan. 2020. “AMER: Automatic Behavior Modeling and Interaction Exploration in Recommender System.” arXiv [cs.LG]. arXiv. http://arxiv.org/abs/2006.05933.
-
-- They argued that their model outperforms BERT4Rec
+* Zhao, Pengyu, Kecheng Xiao, Yuanxing Zhang, Kaigui Bian, and Wei Yan. 2020. “AMER: Automatic Behavior Modeling and Interaction Exploration in Recommender System.” arXiv [cs.LG]. arXiv.  [[Link]](http://arxiv.org/abs/2006.05933) (They argued that their model outperforms BERT4Rec)
 
 # DataSets
 
@@ -105,57 +110,33 @@ Zhao, Pengyu, Kecheng Xiao, Yuanxing Zhang, Kaigui Bian, and Wei Yan. 2020. “A
 
 # Baseline Codes
 
-##  AttRec, Caser, GRU4Rec, FPMC, TransRec, SASRec
-
-- (Tensorflow 1.1+) https://github.com/slientGe/Sequential_Recommendation_Tensorflow
-
-## NCF
-
-- (Keras) https://github.com/hexiangnan/neural_collaborative_filtering
-
-## Caser
-
-- (pytorch) https://github.com/graytowne/caser_pytorch
+* AttRec, Caser, GRU4Rec, FPMC, TransRec, SASRec [[CODE:Tensorflow 1.1+]](https://github.com/slientGe/Sequential_Recommendation_Tensorflow)
+* NCF [[CODE:keras]](https://github.com/hexiangnan/neural_collaborative_filtering)
+* Caser [[CODE:pytorch]](https://github.com/graytowne/caser_pytorch)
 
 
 # Wanna more papres?
 
 ## Conferences
 
-### WWW
+### WWW : [[2019]](https://www2019.thewebconf.org/accepted-papers) [[2018]](https://www2018.thewebconf.org/proceedings/)
 
-- (2019) https://www2019.thewebconf.org/accepted-papers
+### SIGIR [[2019]](https://sigir.org/sigir2019/program/accepted/) [[2020]](https://github.com/jihoo-kim/RecSys-Papers-from-SIGIR-2020)
 
-### SIGIR
+### WSDM [[2019]](http://www.wsdm-conference.org/2019/accepted-papers.php) [[2018]](http://www.wsdm-conference.org/2018/accepted-papers.html)
 
-- (2019) https://sigir.org/sigir2019/program/accepted/
-- (2020) https://github.com/jihoo-kim/RecSys-Papers-from-SIGIR-2020
+### ICDM [[2019]](http://icdm2019.bigke.org/index.php/list-of-accepted-papers/) [[2018]](http://icdm2018.bigke.org/index.php/list-of-accepted-papers/)
 
-### WSDM
+### CIKM [[2019]](https://dblp.org/db/conf/cikm/cikm2019) [[2018]](https://dblp.org/db/conf/cikm/cikm2018)
 
-- (2019) http://www.wsdm-conference.org/2019/accepted-papers.php
-
-### ICDM
-
-- (2019) http://icdm2019.bigke.org/index.php/list-of-accepted-papers/
-
-### ICIKM
-
-- 
-
-### RecSys 
-
-- (2019) https://recsys.acm.org/recsys19/accepted-contributions/
-- (2018) https://recsys.acm.org/recsys18/accepted-contributions/
-- (2017) https://recsys.acm.org/recsys17/accepted-contributions/
-- RecSys Best Papper : https://recsys.acm.org/best-papers/
+### RecSys [[2019]](https://recsys.acm.org/recsys19/accepted-contributions/) [[2018]](https://recsys.acm.org/recsys18/accepted-contributions/) [[2017]](https://recsys.acm.org/recsys17/accepted-contributions/) RecSys Best Papper : [[LINK]](https://recsys.acm.org/best-papers/)
 
 ## Etc.
 
 ### Must-read papers on Recommender System
 
-- https://github.com/hongleizhang/RSPapers
+- [[LINK]](https://github.com/hongleizhang/RSPapers)
 
 ### links to conference publications in graph-based deep learning
 
-- https://github.com/naganandy/graph-based-deep-learning-literature
+- [[LINK]](https://github.com/naganandy/graph-based-deep-learning-literature)
