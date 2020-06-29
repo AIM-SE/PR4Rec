@@ -121,15 +121,15 @@ Kang, Wang-Cheng, and Julian McAuley. 2018. <b>“Self-Attentive Sequential Reco
 
 ### WWW : [[2019]](https://www2019.thewebconf.org/accepted-papers) [[2018]](https://www2018.thewebconf.org/proceedings/)
 
-### SIGIR [[2019]](https://sigir.org/sigir2019/program/accepted/) [[2020]](https://github.com/jihoo-kim/RecSys-Papers-from-SIGIR-2020)
+### SIGIR : [[2019]](https://sigir.org/sigir2019/program/accepted/) [[2020]](https://github.com/jihoo-kim/RecSys-Papers-from-SIGIR-2020)
 
-### WSDM [[2019]](http://www.wsdm-conference.org/2019/accepted-papers.php) [[2018]](http://www.wsdm-conference.org/2018/accepted-papers.html)
+### WSDM : [[2019]](http://www.wsdm-conference.org/2019/accepted-papers.php) [[2018]](http://www.wsdm-conference.org/2018/accepted-papers.html)
 
-### ICDM [[2019]](http://icdm2019.bigke.org/index.php/list-of-accepted-papers/) [[2018]](http://icdm2018.bigke.org/index.php/list-of-accepted-papers/)
+### ICDM : [[2019]](http://icdm2019.bigke.org/index.php/list-of-accepted-papers/) [[2018]](http://icdm2018.bigke.org/index.php/list-of-accepted-papers/)
 
-### CIKM [[2019]](https://dblp.org/db/conf/cikm/cikm2019) [[2018]](https://dblp.org/db/conf/cikm/cikm2018)
+### CIKM : [[2019]](https://dblp.org/db/conf/cikm/cikm2019) [[2018]](https://dblp.org/db/conf/cikm/cikm2018)
 
-### RecSys [[2019]](https://recsys.acm.org/recsys19/accepted-contributions/) [[2018]](https://recsys.acm.org/recsys18/accepted-contributions/) [[2017]](https://recsys.acm.org/recsys17/accepted-contributions/) RecSys Best Papper : [[LINK]](https://recsys.acm.org/best-papers/)
+### RecSys : [[2019]](https://recsys.acm.org/recsys19/accepted-contributions/) [[2018]](https://recsys.acm.org/recsys18/accepted-contributions/) [[2017]](https://recsys.acm.org/recsys17/accepted-contributions/) RecSys Best Papper : [[LINK]](https://recsys.acm.org/best-papers/)
 
 ## Etc.
 
