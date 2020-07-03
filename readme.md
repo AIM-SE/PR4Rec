@@ -2,6 +2,10 @@
 
 <a href=Survey_papers.md>survey papers</a>
 
+# New
+
+* [[Selected papers in KDD2020]](kdd_20.md)
+
 # Problems/Approaches
 
 ## Session based RecSys
@@ -118,6 +122,8 @@ Kang, Wang-Cheng, and Julian McAuley. 2018. <b>“Self-Attentive Sequential Reco
 # Wanna more papres?
 
 ## Conferences
+
+### KDD : [[2020]](https://www.kdd.org/kdd2020/accepted-papers) [[2019]](https://www.kdd.org/kdd2019/accepted-papers) [[2018]](https://www.kdd.org/kdd2018/accepted-papers)
 
 ### WWW : [[2019]](https://www2019.thewebconf.org/accepted-papers) [[2018]](https://www2018.thewebconf.org/proceedings/)
 
