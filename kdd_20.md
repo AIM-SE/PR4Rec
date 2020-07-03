@@ -44,8 +44,6 @@ This year's Research Track acceptance rate is 216/1279=16.8%.
 
 ## Others
 
-* Handling Information Loss of Graph Neural Networks for Session-based Recommendation 
-
 * A Framework for Recommending Accurate and Diverse Items Using Bayesian Graph Convolutional Neural Networks
 
 * BLOB: A Probabilistic Model for Recommendation that Combines Organic and Bandit Signals
