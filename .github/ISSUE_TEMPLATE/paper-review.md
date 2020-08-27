@@ -10,7 +10,12 @@ assignees: ''
 The main goal of reading paper is not just understanding it. Try to understand the key concept, but we need to get new ideas and research directions from the paper.
 
 ## Paper information: title, authors, venue, pdf link, github, etc.
-* 
+* title: 
+* authors: 
+* venue: 
+* pdf link: 
+* github: 
+* abstract: 
 
 ## Summary: problems to address, key ideas, quick results
 
