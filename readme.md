@@ -125,11 +125,11 @@ Kang, Wang-Cheng, and Julian McAuley. 2018. <b>“Self-Attentive Sequential Reco
 
 ### KDD : [[2020]](https://www.kdd.org/kdd2020/accepted-papers) [[2019]](https://www.kdd.org/kdd2019/accepted-papers) [[2018]](https://www.kdd.org/kdd2018/accepted-papers)
 
-### WWW : [[2019]](https://www2019.thewebconf.org/accepted-papers) [[2018]](https://www2018.thewebconf.org/proceedings/)
+### WWW : [[2020]](https://dl.acm.org/doi/proceedings/10.1145/3366423#heading1) [[2019]](https://www2019.thewebconf.org/accepted-papers) [[2018]](https://www2018.thewebconf.org/proceedings/)
 
-### SIGIR : [[2019]](https://sigir.org/sigir2019/program/accepted/) [[2020]](https://github.com/jihoo-kim/RecSys-Papers-from-SIGIR-2020)
+### SIGIR : [[2020]](https://sigir.org/sigir2020/accepted-papers/) [[2019]](https://sigir.org/sigir2019/program/accepted/) [[2020]](https://github.com/jihoo-kim/RecSys-Papers-from-SIGIR-2020)
 
-### WSDM : [[2019]](http://www.wsdm-conference.org/2019/accepted-papers.php) [[2018]](http://www.wsdm-conference.org/2018/accepted-papers.html)
+### WSDM : [[2020]](https://www.wsdm-conference.org/2020/accepted-papers.php) [[2019]](http://www.wsdm-conference.org/2019/accepted-papers.php) [[2018]](http://www.wsdm-conference.org/2018/accepted-papers.html)
 
 ### ICDM : [[2019]](http://icdm2019.bigke.org/index.php/list-of-accepted-papers/) [[2018]](http://icdm2018.bigke.org/index.php/list-of-accepted-papers/)
 
