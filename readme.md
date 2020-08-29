@@ -140,7 +140,7 @@ Kang, Wang-Cheng, and Julian McAuley. 2018. <b>“Self-Attentive Sequential Reco
 ### RecSys Best Papper : [[LINK]](https://recsys.acm.org/best-papers/)
 
 ### RecSys Challenge : 
-* [[2019]](http://www.recsyschallenge.com/2019/) [[2018]](http://www.recsyschallenge.com/2018/) [[2017]](http://www.recsyschallenge.com/2017/) [[2016]](http://2016.recsyschallenge.com/)
+* [[2020]](http://www.recsyschallenge.com/2020/) [[2019]](http://www.recsyschallenge.com/2019/) [[2018]](http://www.recsyschallenge.com/2018/) [[2017]](http://www.recsyschallenge.com/2017/) [[2016]](http://2016.recsyschallenge.com/)
 
 
 ## Etc.
