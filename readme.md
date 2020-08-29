@@ -131,9 +131,9 @@ Kang, Wang-Cheng, and Julian McAuley. 2018. <b>“Self-Attentive Sequential Reco
 
 ### WSDM : [[2020]](https://www.wsdm-conference.org/2020/accepted-papers.php) [[2019]](http://www.wsdm-conference.org/2019/accepted-papers.php) [[2018]](http://www.wsdm-conference.org/2018/accepted-papers.html)
 
-### ICDM : [[2019]](http://icdm2019.bigke.org/index.php/list-of-accepted-papers/) [[2018]](http://icdm2018.bigke.org/index.php/list-of-accepted-papers/)
+### ICDM : [[17-20 Nov 2020]](http://icdm2020.bigke.org/) [[2019]](http://icdm2019.bigke.org/index.php/list-of-accepted-papers/) [[2018]](http://icdm2018.bigke.org/index.php/list-of-accepted-papers/)
 
-### CIKM : [[2019]](https://dblp.org/db/conf/cikm/cikm2019) [[2018]](https://dblp.org/db/conf/cikm/cikm2018)
+### CIKM : [[19-23 October 2020]](https://www.cikm2020.org/) [[2019]](https://dblp.org/db/conf/cikm/cikm2019) [[2018]](https://dblp.org/db/conf/cikm/cikm2018)
 
 ### RecSys : [[2020]](https://recsys.acm.org/recsys20/accepted-contributions/) [[2019]](https://recsys.acm.org/recsys19/accepted-contributions/) [[2018]](https://recsys.acm.org/recsys18/accepted-contributions/) [[2017]](https://recsys.acm.org/recsys17/accepted-contributions/) 
 
