@@ -81,6 +81,7 @@ Kang, Wang-Cheng, and Julian McAuley. 2018. <b>“Self-Attentive Sequential Reco
 - https://github.com/daicoolb/RecommenderSystem-DataSet
 - https://cseweb.ucsd.edu/~jmcauley/datasets.html
 - https://github.com/caserec/Datasets-for-Recommender-Systems
+- http://konect.cc/
 
 ### YOOCHOOSE (Recsys 2015)
 
