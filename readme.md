@@ -1,4 +1,4 @@
-### Table of Contents
+# Table of Contents
 1. [Survey Papers](https://github.com/AIM-SE/PR4Rec#survey-papers)
 2. [New](https://github.com/AIM-SE/PR4Rec#new)
 3. [Problems/Approaches](https://github.com/AIM-SE/PR4Rec#problemsapproaches)
@@ -6,13 +6,15 @@
 5. [Baseline Codes](https://github.com/AIM-SE/PR4Rec#baseline-codes)
 6. [Wanna more papres?](https://github.com/AIM-SE/PR4Rec#wanna-more-papres)
 
-# Survey Papers
-
-<a href=Survey_papers.md>survey papers</a>
-
 # New
 
+* [[Selected papers in AAAI2021]](aaai_21.md)
+* [[Selected papers in AAAI2020]](aaai_20.md)
 * [[Selected papers in KDD2020]](kdd_20.md)
+
+# Survey Papers
+
+<a href=survey_papers.md>survey papers</a>
 
 # Problems/Approaches
 
