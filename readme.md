@@ -1,6 +1,6 @@
 # Table of Contents
-1. [Survey Papers](https://github.com/AIM-SE/PR4Rec#survey-papers)
-2. [New](https://github.com/AIM-SE/PR4Rec#new)
+1. [New](https://github.com/AIM-SE/PR4Rec#new)
+2. [Survey Papers](https://github.com/AIM-SE/PR4Rec#survey-papers)
 3. [Problems/Approaches](https://github.com/AIM-SE/PR4Rec#problemsapproaches)
 4. [DataSets](https://github.com/AIM-SE/PR4Rec#datasets)
 5. [Baseline Codes](https://github.com/AIM-SE/PR4Rec#baseline-codes)
