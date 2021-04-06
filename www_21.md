@@ -76,8 +76,7 @@
 
 #### Dynamic Embeddings for Interaction Prediction
 
-> Zekarias Kefato (KTH Royal Institute of Technology), Sarunas Girdzijauskas (Royal Institute of Technology (KTH), Sweden), Nasrullah Sheikh (IBM) and Alberto Montresor (University of Trento).= Where Next? A Dynamic Model of User Preferences
-> Francesco Sanna Passino (Imperial College London), Lucas Maystre (Spotify), Dmitrii Moor (Spotify), Ashton Anderson (University of Toronto, Spotify) and Mounia Lalmas (Spotify).
+> Zekarias Kefato (KTH Royal Institute of Technology), Sarunas Girdzijauskas (Royal Institute of Technology (KTH), Sweden), Nasrullah Sheikh (IBM) and Alberto Montresor (University of Trento).
 
 * https://arxiv.org/abs/2011.05208
 
@@ -106,6 +105,10 @@
 > Song Jiang (University of California, Los Angeles), Bernard Koch (University of California, Los Angeles) and Yizhou Sun (University of California, Los Angeles).
 
 
+
+####  Where Next? A Dynamic Model of User Preferences
+
+> Francesco Sanna Passino (Imperial College London), Lucas Maystre (Spotify), Dmitrii Moor (Spotify), Ashton Anderson (University of Toronto, Spotify) and Mounia Lalmas (Spotify).
 
 
 
