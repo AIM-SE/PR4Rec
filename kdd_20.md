@@ -1,4 +1,4 @@
-# KDD-2020
+# RecSys-Papers-from-KDD-2020
 
 ## Link:  https://www.kdd.org/kdd2020/accepted-papers
 
