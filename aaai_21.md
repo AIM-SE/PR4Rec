@@ -1,8 +1,4 @@
-
-# AAAI‐21
-
-## ***Paper List of Recommendation System***
-
+# RecSys-Papers-from-AAAI‐2021
 ### (33 RecSys / 1696 Acceptance)
 
 ```Note: 70.6% of accepted papers are student papers.```

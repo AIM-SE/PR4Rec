@@ -1,7 +1,4 @@
-# AAAI‐20
-
-## ***Paper List of Recommendation System***
-
+# RecSys-Papers-from-AAAI‐2020
 ### (27 RecSys / 1590 Acceptance)
 
 |Num |Title| 

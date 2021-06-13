@@ -8,6 +8,7 @@
 
 # New
 
+* [[Selected papers in ICML2021]](icml_21.md)
 * [[Selected papers in AAAI2021]](aaai_21.md)
 * [[Selected papers in WSDM2021]](wsdm_21.md)
 * [[Selected papers in WWW2021]](www_21.md)
