@@ -15,12 +15,11 @@
 * [[Selected papers in AAAI2020]](aaai_20.md)
 * [[Selected papers in KDD2020]](kdd_20.md)
 * [[Selected papers in SIGIR2020]](sigir_20.md)
-
-
+* [[Cold-Start papers in RecSys]](https://github.com/juyongjiang/Cold-Start-RecSys)
 
 # Survey Papers
 
-<a href=survey_papers.md>survey papers</a>
+* <a href=survey_papers.md>survey papers</a>
 
 # Problems/Approaches
 
@@ -85,7 +84,6 @@ Kang, Wang-Cheng, and Julian McAuley. 2018. <b>“Self-Attentive Sequential Reco
 - dgl(PyTorch, MXNet, TensorFlow) : [[LINK]](https://github.com/dmlc/dgl)
 - stellagraph : [[LINK]](https://github.com/stellargraph/stellargraph)
 
-
 ### ETC
 
 * Zhao, Pengyu, Kecheng Xiao, Yuanxing Zhang, Kaigui Bian, and Wei Yan. 2020. “AMER: Automatic Behavior Modeling and Interaction Exploration in Recommender System.” arXiv [cs.LG]. arXiv.  [[Link]](http://arxiv.org/abs/2006.05933) (They argued that their model outperforms BERT4Rec)
@@ -128,13 +126,11 @@ Kang, Wang-Cheng, and Julian McAuley. 2018. <b>“Self-Attentive Sequential Reco
 - 1M : https://grouplens.org/datasets/movielens/1m/
 - 20M : https://grouplens.org/datasets/movielens/20m/
 
-
 # Baseline Codes
 
 * AttRec, Caser, GRU4Rec, FPMC, TransRec, SASRec [[CODE:Tensorflow 1.1+]](https://github.com/slientGe/Sequential_Recommendation_Tensorflow)
 * NCF [[CODE:keras]](https://github.com/hexiangnan/neural_collaborative_filtering)
 * Caser [[CODE:pytorch]](https://github.com/graytowne/caser_pytorch)
-
 
 # Wanna more papres?
 
@@ -156,16 +152,11 @@ Kang, Wang-Cheng, and Julian McAuley. 2018. <b>“Self-Attentive Sequential Reco
 
 ### RecSys Best Papper : [[LINK]](https://recsys.acm.org/best-papers/)
 
-### RecSys Challenge : 
-* [[2020]](http://www.recsyschallenge.com/2020/) [[2019]](http://www.recsyschallenge.com/2019/) [[2018]](http://www.recsyschallenge.com/2018/) [[2017]](http://www.recsyschallenge.com/2017/) [[2016]](http://2016.recsyschallenge.com/)
+### RecSys Challenge : [[2020]](http://www.recsyschallenge.com/2020/) [[2019]](http://www.recsyschallenge.com/2019/) [[2018]](http://www.recsyschallenge.com/2018/) [[2017]](http://www.recsyschallenge.com/2017/) [[2016]](http://2016.recsyschallenge.com/)
 
 
 ## Etc.
 
-### Must-read papers on Recommender System
+### Must-read papers on Recommender System [[LINK]](https://github.com/hongleizhang/RSPapers)
 
-- [[LINK]](https://github.com/hongleizhang/RSPapers)
-
-### links to conference publications in graph-based deep learning
-
-- [[LINK]](https://github.com/naganandy/graph-based-deep-learning-literature)
+### links to conference publications in graph-based deep learning [[LINK]](https://github.com/naganandy/graph-based-deep-learning-literature)
