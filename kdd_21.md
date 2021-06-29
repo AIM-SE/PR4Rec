@@ -1,7 +1,7 @@
 # RecSys-Papers-from-KDD-2021
 Papers related to the Recommender System from KDD 2021 (including the links for Paper PDF and Github Code)
-- R: Research Track Papers
-- A: Applied Data Science Track Papers
+- R: [Research Track Papers](https://github.com/AIM-SE/PR4Rec/blob/master/kdd_21.md#research-track-papers)
+- A: [Applied Data Science Track Papers](https://github.com/AIM-SE/PR4Rec/blob/master/kdd_21.md#applied-data-science-track-papers)
 ---
 
 ## Research Track Papers
