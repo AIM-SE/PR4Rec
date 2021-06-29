@@ -7,7 +7,8 @@
 6. [Wanna more papres?](https://github.com/AIM-SE/PR4Rec#wanna-more-papres)
 
 # New
-
+* [[Selected papers in KDD2021]](kdd_21.md)
+* [[Selected papers in SIGIR2021]](sigir_21.md)
 * [[Selected papers in ICML2021]](icml_21.md)
 * [[Selected papers in AAAI2021]](aaai_21.md)
 * [[Selected papers in WSDM2021]](wsdm_21.md)
@@ -136,11 +137,11 @@ Kang, Wang-Cheng, and Julian McAuley. 2018. <b>“Self-Attentive Sequential Reco
 
 ## Conferences
 
-### KDD : [[2020]](https://www.kdd.org/kdd2020/accepted-papers) [[2019]](https://www.kdd.org/kdd2019/accepted-papers) [[2018]](https://www.kdd.org/kdd2018/accepted-papers)
+### KDD : [[2021]](https://kdd.org/kdd2021/accepted-papers/index) [[2020]](https://www.kdd.org/kdd2020/accepted-papers) [[2019]](https://www.kdd.org/kdd2019/accepted-papers) [[2018]](https://www.kdd.org/kdd2018/accepted-papers)
 
 ### WWW : [[2020]](https://dl.acm.org/doi/proceedings/10.1145/3366423#heading1) [[2019]](https://www2019.thewebconf.org/accepted-papers) [[2018]](https://www2018.thewebconf.org/proceedings/)
 
-### SIGIR : [[2020]](https://sigir.org/sigir2020/accepted-papers/) [[2019]](https://sigir.org/sigir2019/program/accepted/) [[2020]](https://github.com/jihoo-kim/RecSys-Papers-from-SIGIR-2020)
+### SIGIR : [[2021]](https://sigir.org/sigir2021/accepted-papers/) [[2020]](https://sigir.org/sigir2020/accepted-papers/) [[2019]](https://sigir.org/sigir2019/program/accepted/)
 
 ### WSDM : [[2020]](https://www.wsdm-conference.org/2020/accepted-papers.php) [[2019]](http://www.wsdm-conference.org/2019/accepted-papers.php) [[2018]](http://www.wsdm-conference.org/2018/accepted-papers.html)
 
