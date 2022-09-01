@@ -19,6 +19,8 @@
 
 * SetRank: Learning a Permutation-Invariant Ranking Model for Information Retrieval **SIGIR,2020** [[paper](https://arxiv.org/pdf/1912.05891.pdf)] [[code](https://github.com/pl8787/SetRank)]
 
+* Controlling Fairness and Bias in Dynamic Learning-to-Rank **SIGIR, 2020** [[paper](https://dl.acm.org/doi/pdf/10.1145/3397271.3401100)][[code](https://github.com/MarcoMorik/Dynamic-Fairness)]
+
 * Computationally Efficient Optimization of Plackett-Luce Ranking Models for Relevance and Fairness **SIGIR, 2021** [[paper](https://arxiv.org/pdf/2105.00855.pdf)][[code](https://github.com/HarrieO/2021-SIGIR-plackett-luce)]
 
 * Revisit Recommender System in the Permutation Prospective **ARXIV, 2021** [[paper](https://arxiv.org/pdf/2102.12057.pdf)][[code]()]
