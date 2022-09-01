@@ -1,5 +1,5 @@
 # KDD-2022-Highlights
-Papers related to the Recommender System from KDD 2022 (including the links for Paper PDF and Github Code)
+Papers related to the Recommender System from KDD 2022
 
 
 ## Research Track Papers
@@ -61,13 +61,3 @@ Multi-Behavior Hypergraph-Enhanced Transformer for Sequential Recommendation [pa
 Persia: An Open, Hybrid System Scaling Deep Learning-based Recommenders Up to 100 Trillion Parameters [paper link](https://dl.acm.org/doi/pdf/10.1145/3534678.3539070)
 > Highlights: However, the training of such models is challenging even within industrial scale data centers. We resolve this challenge by careful co-design of both optimization algorithm and distributed system architecture.
 
-
-
-
----
- 
-## Applied Data Science Track Papers
- 
-[A1] A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps
-> Authors: Léa Briand (Deezer); Guillaume Salha-Galvan (Deezer / École polytechnique)*; Walid Bendada (Deezer); Mathieu Morlon (Deezer); Viet-Anh Tran (Deezer)
- 
