@@ -2,7 +2,7 @@
 
 ## Survey Paper
 
-[1] Neural Re-ranking in Multi-stage Recommender Systems: A Review [[paper](https://arxiv.org/pdf/2202.06602.pdf)] [[code](https://github.com/LibRerank-Community/LibRerank)]
+* Neural Re-ranking in Multi-stage Recommender Systems: A Review [[paper](https://arxiv.org/pdf/2202.06602.pdf)] [[code](https://github.com/LibRerank-Community/LibRerank)]
 
 ## Conference Paper
 
