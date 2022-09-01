@@ -61,3 +61,5 @@ Multi-Behavior Hypergraph-Enhanced Transformer for Sequential Recommendation [pa
 Persia: An Open, Hybrid System Scaling Deep Learning-based Recommenders Up to 100 Trillion Parameters [paper link](https://dl.acm.org/doi/pdf/10.1145/3534678.3539070)
 > Highlights: However, the training of such models is challenging even within industrial scale data centers. We resolve this challenge by careful co-design of both optimization algorithm and distributed system architecture.
 
+AdaFS: Adaptive Feature Selection in Deep Recommender System [paper link](https://dl.acm.org/doi/pdf/10.1145/3534678.3539204)
+> Highlights: massive amount of information have drawn overwhelming attentions from customers, which select important features become critical. AdaFS purposes feature selection methods with hard-manner and soft-manner, which soft-manner would automatically select features while hard-manner select top-K important features. Experiments shows AdaFS has the best performance over other feature selection methods and performance improvement if adding on the existing SOTA models. 
