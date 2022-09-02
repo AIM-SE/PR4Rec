@@ -23,6 +23,12 @@
 
 * Computationally Efficient Optimization of Plackett-Luce Ranking Models for Relevance and Fairness **SIGIR, 2021** [[paper](https://arxiv.org/pdf/2105.00855.pdf)][[code](https://github.com/HarrieO/2021-SIGIR-plackett-luce)]
 
+* RankFlow: Joint Optimization of Multi-Stage Cascade Ranking **SIGIR, 2022** [[paper](https://www.ruizhang.info/publications/SIGIR%202022%20RankFlow%20-%20Joint%20Optimization%20of%20Multi-Stage%20Cascade%20Ranking.pdf)][[code](https://github.com/qinjr/RankFlow)]
+
+* Multi-Level Interaction Reranking with User Behavior History **SIGIR, 2022** [[paper](https://arxiv.org/pdf/2204.09370.pdf)][[code](https://github.com/YunjiaXi/Multi-Level-Interaction-Reranking)]
+
+* Fair Ranking as Fair Division: Impact-Based Individual Fairness in Ranking **KDD, 2022** [[paper](https://arxiv.org/pdf/2206.07247.pdf)][[code](https://github.com/usaito/kdd2022-fair-ranking-nsw)]
+
 * Revisit Recommender System in the Permutation Prospective **ARXIV, 2021** [[paper](https://arxiv.org/pdf/2102.12057.pdf)][[code]()]
 
 * GRN: Generative Rerank Network for Context-wise Recommendation **ARXIV, 2021** [[paper](https://arxiv.org/pdf/2104.00860.pdf)][[code](https://github.com/LibRerank-Community/LibRerank)]
